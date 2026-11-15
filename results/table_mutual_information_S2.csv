@@ -1,0 +1,125 @@
+feature,mutual_information
+Cumulative approval rate,0.3677001734860179
+2nd-sem approval rate,0.3389551831279538
+2nd-sem evaluation success,0.3232194536379318
+2nd-sem units approved,0.3195570095920168
+Total units approved,0.3020419209118219
+1st-sem approval rate,0.2772410593403527
+2nd-sem mean grade,0.254080625408158
+1st-sem evaluation success,0.24844058016917248
+1st-sem units approved,0.23724157497398068
+1st-sem mean grade,0.18573429174486522
+Grade trend (S2-S1),0.1094635797532093
+Tuition fees up to date,0.10536037902233297
+1st-sem evaluations,0.08473189103135481
+2nd-sem evaluations,0.08435749489013311
+Approval-rate trend (S2-S1),0.07027067477603555
+No 2nd-sem activity,0.059965013978712234
+1st-sem units enrolled,0.05775613256690315
+Age at enrolment,0.052778992873246944
+2nd-sem units enrolled,0.04688695925094066
+Gender (male),0.042427526802276905
+Application mode = 12,0.0424162659512437
+Mature student (>=25),0.04204450148452943
+Scholarship holder,0.03765423003310708
+No 1st-sem activity,0.03577867669696033
+Previous qualification = 3,0.029819040070089953
+Debtor,0.023666672701582847
+Father's occupation = 1,0.023287413299517556
+Application mode = 1,0.0221922025853587
+Course: Informatics Eng.,0.02005823809149243
+Father's qualification = 14,0.01950446505431458
+Previous qualification = 12,0.01882719811622202
+Course: Nursing,0.017804843363944833
+Mother's qualification = 19,0.016978635733785552
+Displaced,0.016448006506482926
+Application mode = 13,0.016364302452262613
+Mother's occupation = 1,0.0162370292203311
+Mother's occupation = 12,0.014761064277301728
+GDP growth,0.014242816342943998
+Course: Social Service (eve.),0.0140600228839598
+Previous qualification = 15,0.013786930704798195
+Father's qualification = 24,0.011966845658125225
+Daytime attendance,0.011923162483966854
+Parent with higher education,0.01181199227927654
+Father's occupation = 9,0.011511590218638235
+Course: Agronomy,0.011484066091374423
+Application mode = 4,0.010745660491963127
+Mother's qualification = 22,0.010363527564735131
+Mother's occupation = 5,0.010155080494749669
+Application mode = 8,0.010141324418039721
+Father's occupation = 7,0.009986583805131177
+Previous qualification = infrequent_sklearn,0.009612040564659363
+Course: Animation & Multimedia,0.009510196795560422
+Mother's occupation = 6,0.009494448325545468
+Course: Management,0.00942422739145532
+Course: Social Service,0.009110165143317417
+Nationality = infrequent_sklearn,0.008581878587718084
+Application mode = 15,0.008250400021035276
+Course: Basic Education,0.007890737065361364
+Application mode = 14,0.007852244385025742
+Course: Management (eve.),0.007454323877808644
+Father's occupation = 3,0.006194540256692083
+Previous qualification = 9,0.006120370001916786
+Father's qualification = 27,0.005855678493932981
+Father's qualification = 10,0.0058409287582708025
+Mother's occupation = 4,0.005668682957696847
+Previous qualification = 1,0.005478839361005017
+Course: Veterinary Nursing,0.005260047249587396
+Marital status = 4,0.0051224768061775006
+Father's occupation = 12,0.003949862244898794
+Inflation rate,0.003778083666637233
+Mother's qualification = 23,0.0036697882092051604
+Mother's qualification = 1,0.003445851232327879
+Mother's qualification = 4,0.0032575896112307934
+Mother's qualification = 2,0.0028193100962112805
+Father's occupation = 2,0.002001545324302967
+Special educational needs,0.0014509464517051818
+Course: Oral Hygiene,0.0010497656621377693
+Father's occupation = 6,0.0007577390706001719
+Father's qualification = 1,0.0006174218080341465
+Application mode = 9,0.0005615198573909463
+Mother's qualification = infrequent_sklearn,0.00040425647180719615
+Father's qualification = 2,0.0001095825300612141
+Marital status = infrequent_sklearn,0.0
+Application mode = 7,0.0
+Marital status = 2,0.0
+International,0.0
+Application order,0.0
+Unemployment rate,0.0
+1st-sem units credited,0.0
+1st-sem units w/o evaluation,0.0
+2nd-sem units credited,0.0
+2nd-sem units w/o evaluation,0.0
+Course: Equinculture,0.0
+Course: Communication Design,0.0
+Application mode = infrequent_sklearn,0.0
+Application mode = 17,0.0
+Application mode = 16,0.0
+Marital status = 1,0.0
+Mother's qualification = 13,0.0
+Mother's qualification = 10,0.0
+Course: Journalism & Comm.,0.0
+Course: Tourism,0.0
+Nationality = 1,0.0
+Mother's qualification = 3,0.0
+Previous qualification = 16,0.0
+Course: Advertising & Mktg.,0.0
+Course = infrequent_sklearn,0.0
+Previous qualification = 14,0.0
+Mother's occupation = 8,0.0
+Mother's occupation = 7,0.0
+Mother's occupation = 2,0.0
+Mother's occupation = 3,0.0
+Father's qualification = 3,0.0
+Father's qualification = 4,0.0
+Father's qualification = 28,0.0
+Father's qualification = infrequent_sklearn,0.0
+Father's occupation = 5,0.0
+Father's occupation = 4,0.0
+Mother's occupation = 10,0.0
+Mother's occupation = infrequent_sklearn,0.0
+Father's occupation = 8,0.0
+Father's occupation = 10,0.0
+Father's occupation = 11,0.0
+Father's occupation = infrequent_sklearn,0.0

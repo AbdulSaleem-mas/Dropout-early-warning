@@ -1,0 +1,31 @@
+{
+  "n_rows": 4424,
+  "n_cols": 35,
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "class_counts": {
+    "Graduate": 2209,
+    "Dropout": 1421,
+    "Enrolled": 794
+  },
+  "class_pct": {
+    "Graduate": 49.93,
+    "Dropout": 32.12,
+    "Enrolled": 17.95
+  },
+  "s1_approved_gt_enrolled": 0,
+  "s1_grade0_but_approved": 0,
+  "s1_grade_pos_but_none_approved": 0,
+  "s1_no_units_enrolled": 180,
+  "s1_enrolled_but_no_eval": 169,
+  "s2_approved_gt_enrolled": 0,
+  "s2_grade0_but_approved": 0,
+  "s2_grade_pos_but_none_approved": 0,
+  "s2_no_units_enrolled": 180,
+  "s2_enrolled_but_no_eval": 221,
+  "grade_range_violations": 0,
+  "age_range": [
+    17,
+    70
+  ]
+}
